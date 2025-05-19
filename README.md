@@ -1,7 +1,17 @@
 # Gastify
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+## Requisitos previos antes de poder emular la aplicacion.
 
+-Tener instalada una version de Java JDK 11 o superior
+-Tener instalado y configurado Android Studio
+
+## This project was generated using 
+
+-[Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+
+-Capacitor and ionic framework
+
+-
 ## Development server
 
 To start a local development server, run:
